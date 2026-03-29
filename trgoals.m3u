@@ -2,105 +2,131 @@
 #EXTINF:-1 tvg-id="trgoals" tvg-name="TRGOALS" group-title="TRGOALS",TRGOALS Master Playlist
 #EXTINF:-1 tvg-id="1" tvg-name="BEIN SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/taraftarium/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/taraftarium/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="2" tvg-name="BEIN SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/b2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/b2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="3" tvg-name="BEIN SPORTS 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/b3/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/b3/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="4" tvg-name="BEIN SPORTS 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/b4/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/b4/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="5" tvg-name="BEIN SPORTS 5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/b5/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/b5/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="6" tvg-name="BEIN MAX 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/bm1/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/bm1/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="7" tvg-name="BEIN MAX 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",BEIN MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/bm2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/bm2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="8" tvg-name="S SPORT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/ss/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/ss/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="9" tvg-name="S SPORT 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",S SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/ss2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/ss2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="10" tvg-name="TIVIBU 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TIVIBU 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/t1/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/t1/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="11" tvg-name="TIVIBU 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TIVIBU 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/t2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/t2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="12" tvg-name="TIVIBU 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TIVIBU 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/t3/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/t3/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="13" tvg-name="TIVIBU 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TIVIBU 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/t4/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/t4/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="14" tvg-name="SMARTSPOR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",SMARTSPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/smarts/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/smarts/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="15" tvg-name="SMARTSPOR 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",SMARTSPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/sms2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/sms2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="16" tvg-name="TRT SPOR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/trtspor/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/trtspor/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="17" tvg-name="TRT SPOR 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TRT SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/trtspor2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/trtspor2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="18" tvg-name="TRT 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/trt1/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/trt1/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="19" tvg-name="A SPOR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",A SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/as/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/as/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="20" tvg-name="ATV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/atv/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/atv/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="21" tvg-name="TV 8" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/tv8/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/tv8/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="22" tvg-name="TV 8,5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",TV 8,5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/tv85/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/tv85/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="23" tvg-name="SKY SPORTS F1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/f1/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/f1/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="24" tvg-name="NBA TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/nbatv/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/nbatv/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="25" tvg-name="EURO SPORT 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",EURO SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/eu1/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/eu1/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
 #EXTINF:-1 tvg-id="26" tvg-name="EURO SPORT 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nfCOsK9y3unVOT0SrM0fDpKVP4q_Baa_oT1ceUiMik6VRzVl4PNYuyMvmTJL2laGuaVRaR5rNV9sbUSjhKZTdI0Cbi-BRn5JWnHR9Z2PIioNsveAaVNpDPlQIvAGedbWrT_1tIuss64Rk21PQL9_7SAGI6_Bd9zYDlpbYjdXsbgDU3VbTIeCaW39Vgk/s200/mac_canli.png" group-title="TRGOALS",EURO SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referer=https://0ch.d72577a9dd0ec41.sbs/
-https://0ch.d72577a9dd0ec41.sbs/eu2/mono.m3u8|referer=https://0ch.d72577a9dd0ec41.sbs/&accept-language=tr-TR
+#EXTVLCOPT:http-referer=https://taraftarium1030.xyz/
+#EXTVLCOPT:http-origin=https://taraftarium1030.xyz
+https://0ch.d72577a9dd0ec41.sbs/eu2/mono.m3u8|referer=https://taraftarium1030.xyz/&origin=https://taraftarium1030.xyz&accept-language=tr-TR
